@@ -1,0 +1,16 @@
+[Inputs]
+clock
+reset
+sensor
+sensort
+long
+short
+[Outputs]
+HL1
+HL0
+FL1
+FL0
+TL0
+TL1
+clear
+[BiDir]
