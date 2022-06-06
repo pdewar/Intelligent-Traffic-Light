@@ -1,3 +1,0 @@
-vhdl work "statemachine.vhd"
-vhdl work "slowcount.vhd"
-vhdl work "top.vhf"
